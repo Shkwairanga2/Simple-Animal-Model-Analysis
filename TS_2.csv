@@ -1,0 +1,169 @@
+name,Year,Number,Region,,,,COUNTRY
+Algeria,2000,Algeria2000,North Africa,,0,,Algeria2020
+Algeria,2005,Algeria2005,North Africa,,0,,Algeria2020
+Algeria,2010,Algeria2010,North Africa,,0,,Algeria2020
+Algeria,2015,Algeria2015,North Africa,,0,,Algeria2020
+Algeria,2020,Algeria2020,North Africa,,8,,Algeria2020
+Benin,2000,Benin2000,West Africa,,0,,Algeria2020
+Benin,2005,Benin2005,West Africa,,0,,Algeria2020
+Benin,2010,Benin2010,West Africa,,2,,Algeria2020
+Benin,2015,Benin2015,West Africa,,1,,Benin2010
+Benin,2020,Benin2020,West Africa,,4,,Benin2010
+Cameroon,2000,Cameroon2000,Central Africa,,0,,Benin2015
+Cameroon,2005,Cameroon2005,Central Africa,,0,,Benin2020
+Cameroon,2010,Cameroon2010,Central Africa,,0,,Benin2020
+Cameroon,2015,Cameroon2015,Central Africa,,0,,Benin2020
+Cameroon,2020,Cameroon2020,Central Africa,,5,,Benin2020
+Egypt,2000,Egypt2000,North Africa,,0,,Cameroon2020
+Egypt,2005,Egypt2005,North Africa,,1,,Cameroon2020
+Egypt,2010,Egypt2010,North Africa,,0,,Cameroon2020
+Egypt,2015,Egypt2015,North Africa,,2,,Cameroon2020
+Egypt,2020,Egypt2020,North Africa,,10,,Cameroon2020
+Kenya,2000,Kenya2000,East Africa,,1,,Egypt2005
+Kenya,2005,Kenya2005,East Africa,,2,,Egypt2015
+Kenya,2010,Kenya2010,East Africa,,3,,Egypt2015
+Kenya,2015,Kenya2015,East Africa,,2,,Egypt2020
+Kenya,2020,Kenya2020,East Africa,,15,,Egypt2020
+Mauritius,2000,Mauritius2000,East Africa,,0,,Egypt2020
+Mauritius,2005,Mauritius2005,East Africa,,0,,Egypt2020
+Mauritius,2010,Mauritius2010,East Africa,,0,,Egypt2020
+Mauritius,2015,Mauritius2015,East Africa,,0,,Egypt2020
+Mauritius,2020,Mauritius2020,East Africa,,2,,Egypt2020
+Morocco,2000,Morocco2000,North Africa,,0,,Egypt2020
+Morocco,2005,Morocco2005,North Africa,,4,,Egypt2020
+Morocco,2010,Morocco2010,North Africa,,2,,Egypt2020
+Morocco,2015,Morocco2015,North Africa,,0,,Kenya2000
+Morocco,2020,Morocco2020,North Africa,,8,,Kenya2005
+Mozambique,2000,Mozambique2000,East Africa,,0,,Kenya2005
+Mozambique,2005,Mozambique2005,East Africa,,0,,Kenya2010
+Mozambique,2010,Mozambique2010,East Africa,,0,,Kenya2010
+Mozambique,2015,Mozambique2015,East Africa,,0,,Kenya2010
+Mozambique,2020,Mozambique2020,East Africa,,1,,Kenya2015
+Nigeria,2000,Nigeria2000,West Africa,,0,,Kenya2015
+Nigeria,2005,Nigeria2005,West Africa,,1,,Kenya2020
+Nigeria,2010,Nigeria2010,West Africa,,1,,Kenya2020
+Nigeria,2015,Nigeria2015,West Africa,,2,,Kenya2020
+Nigeria,2020,Nigeria2020,West Africa,,28,,Kenya2020
+South Africa,2000,South Africa2000,Southern Africa,,1,,Kenya2020
+South Africa,2005,South Africa2005,Southern Africa,,2,,Kenya2020
+South Africa,2010,South Africa2010,Southern Africa,,6,,Kenya2020
+South Africa,2015,South Africa2015,Southern Africa,,3,,Kenya2020
+South Africa,2020,South Africa2020,Southern Africa,,25,,Kenya2020
+Tanzania,2000,Tanzania2000,East Africa,,0,,Kenya2020
+Tanzania,2005,Tanzania2005,East Africa,,0,,Kenya2020
+Tanzania,2010,Tanzania2010,East Africa,,2,,Kenya2020
+Tanzania,2015,Tanzania2015,East Africa,,2,,Kenya2020
+Tanzania,2020,Tanzania2020,East Africa,,4,,Kenya2020
+Tunisia,2000,Tunisia2000,North Africa,,0,,Kenya2020
+Tunisia,2005,Tunisia2005,North Africa,,0,,Mauritius2020
+Tunisia,2010,Tunisia2010,North Africa,,0,,Mauritius2020
+Tunisia,2015,Tunisia2015,North Africa,,2,,Morocco2005
+Tunisia,2020,Tunisia2020,North Africa,,9,,Morocco2005
+Uganda,2000,Uganda2000,East Africa,,0,,Morocco2005
+Uganda,2005,Uganda2005,East Africa,,0,,Morocco2005
+Uganda,2010,Uganda2010,East Africa,,1,,Morocco2010
+Uganda,2015,Uganda2015,East Africa,,0,,Morocco2010
+Uganda,2020,Uganda2020,East Africa,,4,,Morocco2020
+Zimbabwe,2000,Zimbabwe2000,Southern Africa,,0,,Morocco2020
+Zimbabwe,2005,Zimbabwe2005,Southern Africa,,0,,Morocco2020
+Zimbabwe,2010,Zimbabwe2010,Southern Africa,,0,,Morocco2020
+Zimbabwe,2015,Zimbabwe2015,Southern Africa,,0,,Morocco2020
+Zimbabwe,2020,Zimbabwe2020,Southern Africa,,2,,Morocco2020
+,,,,,168,,Morocco2020
+,,,,,,,Morocco2020
+,,,,,,,Mozambique2020
+,,,,,,,Nigeria2005
+,,,,,,,Nigeria2010
+,,,,,,,Nigeria2015
+,,,,,,,Nigeria2015
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,Nigeria2020
+,,,,,,,South Africa2000
+,,,,,,,South Africa2005
+,,,,,,,South Africa2005
+,,,,,,,South Africa2010
+,,,,,,,South Africa2010
+,,,,,,,South Africa2010
+,,,,,,,South Africa2010
+,,,,,,,South Africa2010
+,,,,,,,South Africa2010
+,,,,,,,South Africa2015
+,,,,,,,South Africa2015
+,,,,,,,South Africa2015
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,South Africa2020
+,,,,,,,Tanzania2010
+,,,,,,,Tanzania2010
+,,,,,,,Tanzania2015
+,,,,,,,Tanzania2015
+,,,,,,,Tanzania2020
+,,,,,,,Tanzania2020
+,,,,,,,Tanzania2020
+,,,,,,,Tanzania2020
+,,,,,,,Tunisia2015
+,,,,,,,Tunisia2015
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Tunisia2020
+,,,,,,,Uganda2010
+,,,,,,,Uganda2020
+,,,,,,,Uganda2020
+,,,,,,,Uganda2020
+,,,,,,,Uganda2020
+,,,,,,,Zimbabwe2020
+,,,,,,,Zimbabwe2020

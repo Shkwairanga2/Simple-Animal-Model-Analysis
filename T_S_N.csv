@@ -1,0 +1,71 @@
+name,Year,Region,Number
+Algeria,2000,North Africa,0
+Algeria,2005,North Africa,0
+Algeria,2010,North Africa,0
+Algeria,2015,North Africa,0
+Algeria,2020,North Africa,8
+Benin,2000,West Africa,0
+Benin,2005,West Africa,0
+Benin,2010,West Africa,2
+Benin,2015,West Africa,1
+Benin,2020,West Africa,4
+Cameroon,2000,Central Africa,0
+Cameroon,2005,Central Africa,0
+Cameroon,2010,Central Africa,0
+Cameroon,2015,Central Africa,0
+Cameroon,2020,Central Africa,5
+Egypt,2000,North Africa,0
+Egypt,2005,North Africa,1
+Egypt,2010,North Africa,0
+Egypt,2015,North Africa,2
+Egypt,2020,North Africa,10
+Kenya,2000,East Africa,1
+Kenya,2005,East Africa,2
+Kenya,2010,East Africa,3
+Kenya,2015,East Africa,2
+Kenya,2020,East Africa,15
+Mauritius,2000,East Africa,0
+Mauritius,2005,East Africa,0
+Mauritius,2010,East Africa,0
+Mauritius,2015,East Africa,0
+Mauritius,2020,East Africa,2
+Morocco,2000,North Africa,0
+Morocco,2005,North Africa,4
+Morocco,2010,North Africa,2
+Morocco,2015,North Africa,0
+Morocco,2020,North Africa,8
+Mozambique,2000,East Africa,0
+Mozambique,2005,East Africa,0
+Mozambique,2010,East Africa,0
+Mozambique,2015,East Africa,0
+Mozambique,2020,East Africa,1
+Nigeria,2000,West Africa,0
+Nigeria,2005,West Africa,1
+Nigeria,2010,West Africa,1
+Nigeria,2015,West Africa,2
+Nigeria,2020,West Africa,28
+South Africa,2000,Southern Africa,1
+South Africa,2005,Southern Africa,2
+South Africa,2010,Southern Africa,6
+South Africa,2015,Southern Africa,3
+South Africa,2020,Southern Africa,25
+Tanzania,2000,East Africa,0
+Tanzania,2005,East Africa,0
+Tanzania,2010,East Africa,2
+Tanzania,2015,East Africa,2
+Tanzania,2020,East Africa,4
+Tunisia,2000,North Africa,0
+Tunisia,2005,North Africa,0
+Tunisia,2010,North Africa,0
+Tunisia,2015,North Africa,2
+Tunisia,2020,North Africa,9
+Uganda,2000,East Africa,0
+Uganda,2005,East Africa,0
+Uganda,2010,East Africa,1
+Uganda,2015,East Africa,0
+Uganda,2020,East Africa,4
+Zimbabwe,2000,Southern Africa,0
+Zimbabwe,2005,Southern Africa,0
+Zimbabwe,2010,Southern Africa,0
+Zimbabwe,2015,Southern Africa,0
+Zimbabwe,2020,Southern Africa,2
